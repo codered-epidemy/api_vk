@@ -1,7 +1,7 @@
 import requests
 
 
-TOKEN = "cbce9130cbce9130cbce913040cbb276eaccbcecbce9130a95253a5b1f70dc4fa426c01"
+TOKEN = ""
 VERSION = 5.131
 
 USER_ID = int(input("Введите id пользователя ВКонтакте: "))
